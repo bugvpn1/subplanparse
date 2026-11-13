@@ -20,8 +20,43 @@
       "plan_names": [
         "SVIP Daily",
         "SVIP Monthly",
-        "SVIP Yearly"
-      ]
+        "SVIP Yearly",
+        "SVIP按日计费",
+        "SVIP按月计费",
+        "SVIP按年计费"
+      ],
+      "plan_name_translations": {
+        "SVIP Daily": {
+          "en": "SVIP Daily",
+          "zh-CN": "SVIP按日计费",
+          "zh-TW": "SVIP按日計費"
+        },
+        "SVIP Monthly": {
+          "en": "SVIP Monthly",
+          "zh-CN": "SVIP按月计费",
+          "zh-TW": "SVIP按月計費"
+        },
+        "SVIP Yearly": {
+          "en": "SVIP Yearly",
+          "zh-CN": "SVIP按年计费",
+          "zh-TW": "SVIP按年計費"
+        },
+        "SVIP按日计费": {
+          "en": "SVIP Daily",
+          "zh-CN": "SVIP按日计费",
+          "zh-TW": "SVIP按日計費"
+        },
+        "SVIP按月计费": {
+          "en": "SVIP Monthly",
+          "zh-CN": "SVIP按月计费",
+          "zh-TW": "SVIP按月計費"
+        },
+        "SVIP按年计费": {
+          "en": "SVIP Yearly",
+          "zh-CN": "SVIP按年计费",
+          "zh-TW": "SVIP按年計費"
+        }
+      }
     },
     "vip": {
       "order": 20,
@@ -47,7 +82,39 @@
         "按日计费",
         "按月计费",
         "按年计费"
-      ]
+      ],
+      "plan_name_translations": {
+        "VIP Daily": {
+          "en": "VIP Daily",
+          "zh-CN": "VIP按日计费",
+          "zh-TW": "VIP按日計費"
+        },
+        "VIP Monthly": {
+          "en": "VIP Monthly",
+          "zh-CN": "VIP按月计费",
+          "zh-TW": "VIP按月計費"
+        },
+        "VIP Yearly": {
+          "en": "VIP Yearly",
+          "zh-CN": "VIP按年计费",
+          "zh-TW": "VIP按年計費"
+        },
+        "按日计费": {
+          "en": "VIP Daily Plan",
+          "zh-CN": "VIP按日计费",
+          "zh-TW": "VIP按日計費"
+        },
+        "按月计费": {
+          "en": "VIP Monthly Plan",
+          "zh-CN": "VIP按月计费",
+          "zh-TW": "VIP按月計費"
+        },
+        "按年计费": {
+          "en": "VIP Annual Plan",
+          "zh-CN": "VIP按年计费",
+          "zh-TW": "VIP按年計費"
+        }
+      }
     },
     "trial": {
       "order": 25,
@@ -68,7 +135,14 @@
       },
       "plan_names": [
         "Register Gift"
-      ]
+      ],
+      "plan_name_translations": {
+        "Register Gift": {
+          "en": "Registration Gift",
+          "zh-CN": "注册赠礼",
+          "zh-TW": "註冊贈禮"
+        }
+      }
     },
     "res": {
       "order": 30,
@@ -107,7 +181,14 @@
       },
       "plan_names": [
         "Free Claim"
-      ]
+      ],
+      "plan_name_translations": {
+        "Free Claim": {
+          "en": "Free Plan",
+          "zh-CN": "免费套餐",
+          "zh-TW": "免費套餐"
+        }
+      }
     },
     "standard": {
       "order": 2147483647,
