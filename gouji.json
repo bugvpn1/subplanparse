@@ -41,6 +41,10 @@
         "dark": "#7CB6FF"
       },
       "plan_names": [
+        "VIP Daily",
+        "VIP Monthly",
+        "VIP Yearly",
+        "按日计费",
         "按月计费",
         "按年计费"
       ]
