@@ -12,6 +12,11 @@
         "zh-CN": "SVIP",
         "zh-TW": "SVIP"
       },
+      "description": {
+        "en": "Unlock nodes in all popular regions with exclusive access to premium high-speed dedicated routes. Designed for users seeking the ultimate experience, offering peak network performance with exceptional stability and speed.",
+        "zh-CN": "解锁所有热门地区节点，独享顶级高速专线服务。专为追求极致体验的用户打造，为您提供最稳定、极速的巅峰网络体验。",
+        "zh-TW": "解鎖所有熱門地區節點，獨享頂級高速專線服務。專為追求極致體驗的用戶打造，為您提供最穩定、極速的巔峰網路體驗。"
+      },
       "emoji": "👑",
       "color": {
         "light": "#946000",
@@ -69,6 +74,11 @@
         "en": "VIP",
         "zh-CN": "VIP",
         "zh-TW": "VIP"
+      },
+      "description": {
+        "en": "Access nodes in selected popular regions and switch freely between VIP and Standard routes. A practical choice for everyday use, combining smooth speeds with great value.",
+        "zh-CN": "覆盖精选热门地区节点，支持VIP线路与标准线路灵活切换。轻松满足日常需求，兼顾流畅速度与高性价比的实用之选。",
+        "zh-TW": "涵蓋精選熱門地區節點，支援VIP線路與標準線路靈活切換。輕鬆滿足日常需求，兼顧流暢速度與高性價比的實用之選。"
       },
       "emoji": "💎",
       "color": {
@@ -128,6 +138,11 @@
         "zh-CN": "VIP试用",
         "zh-TW": "VIP試用"
       },
+      "description": {
+        "en": "Explore the available trial plans.",
+        "zh-CN": "查看可用的试用套餐。",
+        "zh-TW": "查看可用的試用套餐。"
+      },
       "emoji": "🎁",
       "color": {
         "light": "#1565C0",
@@ -156,6 +171,11 @@
         "zh-CN": "家宽",
         "zh-TW": "家寬"
       },
+      "description": {
+        "en": "Choose a billing period for your Residential plan.",
+        "zh-CN": "选择家宽套餐的计费周期。",
+        "zh-TW": "選擇家寬套餐的計費週期。"
+      },
       "emoji": "🏠",
       "color": {
         "light": "#1565C0",
@@ -173,6 +193,11 @@
         "en": "Free",
         "zh-CN": "免费版",
         "zh-TW": "免費版"
+      },
+      "description": {
+        "en": "Explore the available free plans.",
+        "zh-CN": "查看可用的免费套餐。",
+        "zh-TW": "查看可用的免費套餐。"
       },
       "emoji": "🌱",
       "color": {
@@ -201,6 +226,11 @@
         "en": "Standard",
         "zh-CN": "标准",
         "zh-TW": "標準"
+      },
+      "description": {
+        "en": "Choose a billing period for your Standard plan.",
+        "zh-CN": "选择标准套餐的计费周期。",
+        "zh-TW": "選擇標準套餐的計費週期。"
       },
       "emoji": "🌐",
       "color": {
