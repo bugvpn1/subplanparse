@@ -96,13 +96,13 @@
       "plan_name_translations": {
         "VIP Daily": {
           "en": "VIP Daily",
-          "zh-CN": "VIP按日计费",
-          "zh-TW": "VIP按日計費"
+          "zh-CN": "普通会员 · 日付",
+          "zh-TW": "普通會員 · 日付"
         },
         "VIP Monthly": {
           "en": "VIP Monthly",
-          "zh-CN": "VIP按月计费",
-          "zh-TW": "VIP按月計費"
+          "zh-CN": "普通会员 · 月付",
+          "zh-TW": "普通會員 · 月付"
         },
         "VIP Yearly": {
           "en": "VIP Yearly",
