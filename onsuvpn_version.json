@@ -32,14 +32,14 @@
       ],
       "plan_name_translations": {
         "SVIP Daily": {
-          "en": "SVIP Daily",
-          "zh-CN": "SVIP按日计费",
-          "zh-TW": "SVIP按日計費"
+          "en": "SVIP · Daily",
+          "zh-CN": "高级會員 · 日付",
+          "zh-TW": "高級會員 · 日付"
         },
         "SVIP Monthly": {
-          "en": "SVIP Monthly",
-          "zh-CN": "SVIP按月计费",
-          "zh-TW": "SVIP按月計費"
+          "en": "SVIP · Monthly",
+          "zh-CN": "高级會員 · 月付",
+          "zh-TW": "高級會員 · 月付"
         },
         "SVIP Yearly": {
           "en": "SVIP Yearly",
@@ -95,12 +95,12 @@
       ],
       "plan_name_translations": {
         "VIP Daily": {
-          "en": "VIP Daily",
+          "en": "VIP · Daily",
           "zh-CN": "普通会员 · 日付",
           "zh-TW": "普通會員 · 日付"
         },
         "VIP Monthly": {
-          "en": "VIP Monthly",
+          "en": "VIP · Monthly",
           "zh-CN": "普通会员 · 月付",
           "zh-TW": "普通會員 · 月付"
         },
